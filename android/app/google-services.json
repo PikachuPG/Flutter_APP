@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533106383091",
+    "project_id": "form-fields-40140",
+    "storage_bucket": "form-fields-40140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533106383091:android:0eaa48051b11aaf9a3bf86",
+        "android_client_info": {
+          "package_name": "com.example.stateful_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533106383091-3r435oilna9rjo5tagpqogfg3eu5qrve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGCfpWmF_Vrm9I0FfZqDRP9C_9Y6ZOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533106383091-3r435oilna9rjo5tagpqogfg3eu5qrve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
